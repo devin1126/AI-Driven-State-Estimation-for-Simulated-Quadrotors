@@ -1,0 +1,2 @@
+# AI-Driven-State-Estimation-for-Simulated-Quadrotors
+This repository contains the implementation details and experimental results from the Attentive Neural Process (AttNP), Deep Kalman Filter (DKF), and LSTM-based Physics-Informed Neural Network (PINN-LSTM) quadrotor state estimation algorithms used in the paper titled 'Data-Driven State Estimation of Uncertain Nonlinear Dynamics Using Neural Processes' (Paper to be made available soon!).
